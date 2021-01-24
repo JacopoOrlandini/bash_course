@@ -1,0 +1,6 @@
+echo "MAps" > myFile.hex
+echo "Maps" >> myFile.hex 
+
+
+use :%!xxd to edit 
+use :%!xxd -r to view the changes
